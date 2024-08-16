@@ -83,9 +83,11 @@ I am proud to be part of the team that has won the inaugural Absa Bank Botswana 
 ### Badges 
 
 <b>My GitHub Stats</b>
+<br/>
 <a href="http://www.github.com/mrdiin"><img src="https://github-readme-stats.vercel.app/api?username=mrdiin&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="mrdiin's GitHub stats" /></a>
 <br/>
 
 <b>My Contributions (Public & Private Repos)</b>
+<br/>
 <a href="http://www.github.com/mrdiin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdiin&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br/>
